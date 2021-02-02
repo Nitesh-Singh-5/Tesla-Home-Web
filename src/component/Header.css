@@ -14,22 +14,3 @@
   width: 100px;
   margin-top: 7px;
 }
-.header__center {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  font-weight: 500;
-  font-size: 16px;
-}
-.header__center p {
-  padding: 0 10px 10px 18px;
-}
-.header__right {
-  display: flex;
-  justify-content: flex-end;
-  text-transform: uppercase;
-  margin-right: 21px;
-}
-.header__right > p {
-  margin: 10px;
-}
