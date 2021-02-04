@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Tesla-Home-Web/static/css/main.a8076bba.chunk.css",
+    "main.js": "/Tesla-Home-Web/static/js/main.ad93114e.chunk.js",
+    "main.js.map": "/Tesla-Home-Web/static/js/main.ad93114e.chunk.js.map",
+    "runtime-main.js": "/Tesla-Home-Web/static/js/runtime-main.99a84805.js",
+    "runtime-main.js.map": "/Tesla-Home-Web/static/js/runtime-main.99a84805.js.map",
+    "static/js/2.d1c7e3a0.chunk.js": "/Tesla-Home-Web/static/js/2.d1c7e3a0.chunk.js",
+    "static/js/2.d1c7e3a0.chunk.js.map": "/Tesla-Home-Web/static/js/2.d1c7e3a0.chunk.js.map",
+    "static/js/3.69109867.chunk.js": "/Tesla-Home-Web/static/js/3.69109867.chunk.js",
+    "static/js/3.69109867.chunk.js.map": "/Tesla-Home-Web/static/js/3.69109867.chunk.js.map",
+    "index.html": "/Tesla-Home-Web/index.html",
+    "static/css/main.a8076bba.chunk.css.map": "/Tesla-Home-Web/static/css/main.a8076bba.chunk.css.map",
+    "static/js/2.d1c7e3a0.chunk.js.LICENSE.txt": "/Tesla-Home-Web/static/js/2.d1c7e3a0.chunk.js.LICENSE.txt",
+    "static/media/Desktop-Accessories.027ada94.jpg": "/Tesla-Home-Web/static/media/Desktop-Accessories.027ada94.jpg",
+    "static/media/Desktop-Model3.30651f79.jpeg": "/Tesla-Home-Web/static/media/Desktop-Model3.30651f79.jpeg",
+    "static/media/Desktop-ModelS.e3d22a07.jpeg": "/Tesla-Home-Web/static/media/Desktop-ModelS.e3d22a07.jpeg",
+    "static/media/Desktop-ModelX.83417303.jpeg": "/Tesla-Home-Web/static/media/Desktop-ModelX.83417303.jpeg",
+    "static/media/Desktop-ModelY.30acb76a.jpeg": "/Tesla-Home-Web/static/media/Desktop-ModelY.30acb76a.jpeg",
+    "static/media/Desktop-SolarPanels.d7d441d7.jpeg": "/Tesla-Home-Web/static/media/Desktop-SolarPanels.d7d441d7.jpeg",
+    "static/media/Desktop-SolarRoof.9eb2e602.jpeg": "/Tesla-Home-Web/static/media/Desktop-SolarRoof.9eb2e602.jpeg",
+    "static/media/index.css": "/Tesla-Home-Web/static/media/iCiel-Medium.b23bb62d.ttf",
+    "static/media/teslaLogo.b6ab2189.svg": "/Tesla-Home-Web/static/media/teslaLogo.b6ab2189.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a84805.js",
+    "static/js/2.d1c7e3a0.chunk.js",
+    "static/css/main.a8076bba.chunk.css",
+    "static/js/main.ad93114e.chunk.js"
+  ]
+}
